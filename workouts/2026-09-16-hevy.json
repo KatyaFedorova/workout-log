@@ -1,0 +1,224 @@
+{
+ "id": "2026-09-16-hevy",
+ "dayId": "import",
+ "dayName": "Wed (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-09-16T16:16:00Z",
+ "endedAt": "2026-09-16T17:03:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "d75cfbdc-8628-4142-b6b0-d39ce71f97b4",
+   "at": "2026-09-16T17:03:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "98737bbc-1bc7-4900-abe5-4d61d5e58d03",
+   "name": "Front Foot Elevated Smith Lunge",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "40cbaa88-2b7a-4e96-9649-3bba7d59b89c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "3",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "eea24c99-0b12-4494-b104-6d97ad64e6d8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "2",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c719757d-c963-4f8b-b56b-651976dd8155",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "3",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "110d364c-3e4f-4b2e-81a3-367e960ec8c1",
+   "name": "Platform",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "0956d825-5167-4a7c-a54c-f3fd2b270070",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "14a4e463-e3df-4ef6-9e9e-f4248529d6cd",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "99dd5a88-c864-4f85-9bbf-85a4c4602cd4",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "18eba2ba-9e26-42dc-a5fc-b5c01d6e13dd",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cd30ff08-feb1-43be-9981-d97fcff0d9a2",
+   "name": "Leg Extension",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "4363e6f7-0339-4e74-9a6a-e2461acce9d7",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b52c6e36-1ca7-402d-ac5e-8c5dcbb38789",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "3ad6eef5-a17f-4464-9c2b-28e01ec7628e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "45",
+       "reps": "7",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "58f5d755-90d4-490c-80c6-ef2e9c8ff0f9",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "45",
+       "reps": "6",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "7e7708bc-7bd3-4a9c-a603-4f6a95025b1e",
+   "name": "Standing Calf Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "fb8772a2-5c2f-4c65-8794-4a1c2c796be7",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "8c59570a-f005-4a75-b08e-aa33a70fa57a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "8cb70212-5c32-42b4-aa76-1114ad8f43c4",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,257 @@
+{
+ "id": "2024-10-08-hevy",
+ "dayId": "import",
+ "dayName": "Legs2.2 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2024-10-08T17:56:00Z",
+ "endedAt": "2024-10-08T18:50:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "a4cb2e93-7914-47dd-b166-b80cc2c6f490",
+   "at": "2024-10-08T18:50:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "f580452d-e6bd-4796-b774-33fd7eca5c1b",
+   "name": "Glute Activation",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "04f86ad7-9d72-4dba-baa4-c0167b1a76a7",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "30",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "060d691b-9ff0-4a7c-be4c-bb40c6a32246",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "30",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c966a24a-bbe9-4b2a-b028-42adbb181622",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "30",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "593423b8-55df-4618-9f38-b255ea91fd4f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "30",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "0493de7d-bb41-44ca-8021-35dc2b675ce4",
+   "name": "Single Leg Press (Machine)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "321d427d-03bb-430b-ba74-2dbe408ca53a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "69f8218d-83ad-4624-b140-2c811a419acc",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b76d6a08-6409-4d41-a93f-2eebf47aedb0",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "27",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a4e131a3-9a11-4c9f-a08b-5b28903e0263",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "35",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "76b6fd38-de86-42aa-bc22-39cb8998668f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "35",
+       "reps": "6",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "f16dd221-b063-48ab-b7b2-34dea82c9878",
+   "name": "B-Stance Hip Thrust",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "06f0a931-9cff-48c3-9900-4be440fc1480",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ac421bcb-52b5-44ef-9070-b1d1ee5454e9",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "d8b7d8e5-7840-459c-bd93-fe98d33df35c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "91a64ec4-e1d2-41d7-bc72-42b73cdf2060",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "9fc1f554-2702-4791-acad-0eadec72d4f4",
+   "name": "Romanian Deadlift",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "412381cf-20a2-4739-a1ff-88f85e491ee9",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "99d97063-7744-4c71-ad58-ef84d59aedd6",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "e10a9b9a-0e22-488b-8a77-e3aed6d37f51",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "0355412b-fb6f-46ec-a887-5b9ac867de42",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

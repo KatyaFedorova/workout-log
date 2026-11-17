@@ -1,0 +1,189 @@
+{
+ "id": "2026-06-02-hevy",
+ "dayId": "import",
+ "dayName": "Shoulders/back 2 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-06-02T18:11:00Z",
+ "endedAt": "2026-06-02T18:45:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "5cc85f7c-6768-4432-940f-9e94405bd492",
+   "at": "2026-06-02T18:45:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "515402e5-61fc-4e47-a182-0f5c46a2ccab",
+   "name": "Seated DB Shoulder Press",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "d4cc49d6-875d-4de9-b56d-b947c56b6444",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "8",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "111ed172-369c-4fec-b675-912695a0545a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "8",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "457343a2-7812-491e-9526-153c67d09b2b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "8",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "87edd7fe-2c08-47e3-96c4-c0eef06dce41",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "8",
+       "reps": "4",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "07ea2d32-e4ac-4964-8e91-c65d2224bb3f",
+   "name": "Cable Lateral Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "d3d9f2f9-c6df-40e6-b22f-cc835aff8b2b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "2f5acec2-09b7-4b15-b436-893ee30fa7e8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "7eb36087-e8b5-4de0-a8bf-93a597c90cb7",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "aed1e5ab-2601-4cd9-a7b1-499f45ce3a4b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "acd249f5-87fc-4021-8892-c372d8fec525",
+   "name": "Preacher Curl",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "4c6ff875-356d-4f5a-a9d5-b8deaa93ae60",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "07cf2247-febf-434e-869d-f730f0f0abb6",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "e8fcda58-f09d-4a18-9ed6-ec2e29bf5181",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "19b6779c-ac4f-4c2c-b205-37e1c89576ef",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

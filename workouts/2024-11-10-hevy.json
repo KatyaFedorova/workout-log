@@ -1,0 +1,132 @@
+{
+ "id": "2024-11-10-hevy",
+ "dayId": "import",
+ "dayName": "Shoulders/back 2 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2024-11-10T12:49:00Z",
+ "endedAt": "2024-11-10T13:21:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "1a864391-506a-4bf8-acfe-805baa240c85",
+   "at": "2024-11-10T13:21:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "35896c27-accd-4aba-9bd8-80ce9b7d69d6",
+   "name": "Dumbbell Row",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "18bbb9e3-72cd-4e80-a3a9-45691cb8fd32",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f5529d52-08dd-4656-b2c9-19ce5582b620",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "14",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a5397b73-3a84-42fb-8ed3-0c4e239ab1b5",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "14",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f70f7783-2d9f-43fe-a5ca-47ee55868277",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "14",
+       "reps": "8",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "9bf0cba1-fd53-45b6-bf69-bb7e4228608b",
+   "name": "Overhead Triceps Extension",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "ebe3f03c-cb45-4a56-818a-740661ad1739",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "14",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "7850f3d6-841f-49bb-a8fe-941a10dcd23b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a19fe84f-2ab3-48b4-a855-fc347a096104",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "7",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "62310e80-47c3-4dd0-ae34-387ad7cde5eb",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "7",
+       "reps": "9",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

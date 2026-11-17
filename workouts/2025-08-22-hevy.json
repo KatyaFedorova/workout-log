@@ -1,0 +1,75 @@
+{
+ "id": "2025-08-22-hevy",
+ "dayId": "import",
+ "dayName": "Legs2.1 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2025-08-22T09:06:00Z",
+ "endedAt": "2025-08-22T09:41:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "770adf30-016a-47df-a131-2fea3b1ac69c",
+   "at": "2025-08-22T09:41:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "e8ee7299-9d5d-4d1c-af86-fdf43b87f55e",
+   "name": "Leg Press",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "b8bafb88-0146-46e0-a56b-a34576168087",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "90",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "6bebf084-08f1-48f8-9dfe-4053445fd067",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "100",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "604164d5-f42d-4ab1-a5f1-d9b8145d8a2d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "100",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "9f23f6d8-2aaf-4289-a05a-f90457a3a716",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "100",
+       "reps": "77",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

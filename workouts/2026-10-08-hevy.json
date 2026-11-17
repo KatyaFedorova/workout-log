@@ -1,0 +1,156 @@
+{
+ "id": "2026-10-08-hevy",
+ "dayId": "import",
+ "dayName": "Tue (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-10-08T15:57:00Z",
+ "endedAt": "2026-10-09T15:54:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "b7eee514-7948-4a06-8235-9780e3c3ac6d",
+   "at": "2026-10-09T15:54:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "1f813d66-8a50-4bb7-af37-6a0fa12fc7ed",
+   "name": "Incline DB Front Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "a7bbd608-aa2c-46ed-b58f-2bdd2223ad9f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "4889edd5-ec8b-456e-9cc8-2def956b9a25",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "5e1a8616-bdda-40b1-8d78-8bcef4340efa",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "302d4997-b864-4b64-a858-5d622defdb58",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "7",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "ed471ebd-16f1-4493-889c-4eba313bbb67",
+   "name": "Cable Lateral Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "17158e3d-6087-4b90-b22c-0e9fd2f4737f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "af3755df-0ba5-49b6-bff9-34f7fdd900ca",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b95e3e90-2387-47ee-8a5f-ae0fb3cd2fbd",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b4aca465-2b6b-4d65-bc9f-d9f0fa0fd68f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "6",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "6206f961-bbf5-4fba-aa54-56937b210697",
+   "name": "\u041c\u0430\u0445\u0438 \u0433\u0430\u043d\u0442\u0435\u043b\u044f\u043c\u0438 \u0432 \u043d\u0430\u043a\u043b\u043e\u043d\u0435 / Rear Delt Fly",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "023f32d9-1932-4878-96a9-bf042f97f7ac",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

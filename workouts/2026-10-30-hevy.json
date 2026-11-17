@@ -1,0 +1,86 @@
+{
+ "id": "2026-10-30-hevy",
+ "dayId": "import",
+ "dayName": "Friday (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-10-30T16:48:00Z",
+ "endedAt": "2026-10-30T17:18:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "0ce2f771-dcdf-4f71-aeb9-a096ce5d1753",
+   "at": "2026-10-30T17:18:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "46104a83-7a81-41cb-9f72-a82895c59d30",
+   "name": "Deficit Reverse Lunge",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "7c20c59e-0bd0-423a-9d53-0c5dde67f9b5",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "7",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "90d15aeb-4fb7-4828-88bb-3e0303b10c17",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "7",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a9041381-cf5f-4b3f-b495-b6c7373e2733",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "1c6c1b84-6341-4724-828c-b083b62fb1a0",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a4d2cef2-b40f-433d-85cb-36649210c2e8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "5",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

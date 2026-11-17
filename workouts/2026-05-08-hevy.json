@@ -1,0 +1,200 @@
+{
+ "id": "2026-05-08-hevy",
+ "dayId": "import",
+ "dayName": "Legs A (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-05-08T12:20:00Z",
+ "endedAt": "2026-05-08T13:10:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "15e2e184-9761-43e6-a26a-82aa20913668",
+   "at": "2026-05-08T13:10:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "a424f46d-175d-4ace-82f1-0e88d5bd2835",
+   "name": "Sumo Squat",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "1bd86593-4874-480e-b91f-3bd803f087be",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "5186b953-e2d7-44e0-864a-f78ea3a32f10",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "89e92136-16c8-4b44-b09d-f9087083997a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "3",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b6e2f1bf-0b73-4ab8-a74e-e43a6fb9567e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "7",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "735e491a-8481-4cdb-9156-abfb1c64d4d4",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "5",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "d0a1cc92-8549-4cd7-bffd-08f9d57e8966",
+   "name": "Kickstand RDL",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "97336fd9-a0d3-4864-bcf6-32929f8e5549",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "17.5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "767611ec-25e6-424e-be83-f4bbd0189c26",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "17.5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "e8d73b06-4d32-429b-a24f-3a2828b8bdd5",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "17.5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a200c03d-41b4-4110-8e74-b20225caa98a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "17.5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "df0e1143-3cdd-4a22-8719-97dcc1a94d95",
+   "name": "Standing Cable Kickback",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "4488c99a-6a12-4904-a6a7-4f558ea84ca6",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "eb439fd8-16ab-4727-a0cd-48a3a513556f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "13",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "42cec919-f641-4890-a7ed-0420d4c832b9",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "4d8e4f44-a51f-4dac-a1d6-697f90cb6f00",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

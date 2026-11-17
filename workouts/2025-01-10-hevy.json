@@ -1,0 +1,132 @@
+{
+ "id": "2025-01-10-hevy",
+ "dayId": "import",
+ "dayName": "Legs2.2 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2025-01-10T19:29:00Z",
+ "endedAt": "2025-01-10T20:41:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "3113c902-a582-4de5-ae0b-dd8e4c2e368e",
+   "at": "2025-01-10T20:41:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "e34c76eb-8036-430f-93a8-db097beaa901",
+   "name": "Single Leg Press (Machine)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "efdb20ae-8a42-4d07-a2f9-12c74a483953",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "4497f2bf-dfb1-470d-9e41-aa52de419845",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "26e2979a-c3e4-4c1b-af6f-64fc5c882f7f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "7bc6d6be-3bab-4183-96e1-1096979846bd",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "b60ae9a9-e7b3-4621-ac60-ae479f24df8f",
+   "name": "B-Stance Hip Thrust",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "61e319b8-11d7-4288-af3b-67a930144086",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "e4d503ae-6d6c-43cf-9fe7-e63bcdda87f8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "d2112b25-70ca-4889-96fa-c38a68c022d8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "129dc597-b6ea-4f4c-ba4d-40811be76eba",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "7",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "id": "2026-10-02-hevy",
+ "dayId": "import",
+ "dayName": "Tue (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-10-02T16:38:00Z",
+ "endedAt": "2026-10-02T17:18:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "586eeb93-2762-4edf-92b9-b1150879ad17",
+   "at": "2026-10-02T17:18:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "c114cad2-b642-4f2d-997a-8c9da4417575",
+   "name": "Incline DB Front Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "c8ccee7f-bd0e-4684-852f-68aeba309381",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "11",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "3af8cfa1-59fb-4dc7-9987-bcd258384975",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c3f56bfb-b4d3-4a17-a697-7d19b01fcb19",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "8e4efb3f-f533-47f6-b4dd-0a20632849f4",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "6",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "c3c82733-f021-47f6-9fa3-2621c82dc648",
+   "name": "Cable Lateral Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "1c1dd1ef-e998-4cf4-8ba0-1685c24a287c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c74780b6-6a85-4620-a0a9-7b48e9ef80c7",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "590ff816-18dd-4579-b42c-8c632250b1ea",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "138ee303-2dd5-423e-9797-5370bb9b7e8a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "6",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "3f20edaf-480f-4daa-b52a-066caa0e31a0",
+   "name": "\u041c\u0430\u0445\u0438 \u0433\u0430\u043d\u0442\u0435\u043b\u044f\u043c\u0438 \u0432 \u043d\u0430\u043a\u043b\u043e\u043d\u0435 / Rear Delt Fly",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "865d201d-4f2d-4367-adfe-6a22c2e68652",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c9bd231a-aa13-4620-93e4-c5bd0066f0bc",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "6",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a52f3e12-d7b5-4743-87fc-144a8ef655e5",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "6",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "85b6020b-66c9-4d39-a0d1-11f6bed4225f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "6",
+       "reps": "8",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "c2c20f55-578c-4c04-899a-c5e9cfdc6506",
+   "name": "Crunch",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "6110705e-bcca-4c4e-a567-5bf991133d96",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "1",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

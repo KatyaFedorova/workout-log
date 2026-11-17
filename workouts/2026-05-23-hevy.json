@@ -1,0 +1,292 @@
+{
+ "id": "2026-05-23-hevy",
+ "dayId": "import",
+ "dayName": "Legs B (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-05-23T07:20:00Z",
+ "endedAt": "2026-05-23T08:47:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "58701e9d-0cdc-409b-8513-213bfe60a91e",
+   "at": "2026-05-23T08:47:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "506157c8-df74-48f1-91ca-ef68bf7045ef",
+   "name": "Glute Activation",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "815187d9-01dd-4e3c-973d-83d0fa25592b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "0eacf80b-85f2-4cc9-9a5f-f9be23bc4c98",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "a31e9136-b1aa-45c9-8228-7c4dfa64a83e",
+   "name": "Sumo Squat",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "4aee4f9c-bb5f-4d04-a854-9f22c07225f4",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "7",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "360609be-1d44-41e2-9cde-dfd74de3d144",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "0896fd22-8c0e-44dc-96ef-3b7ae88580dc",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "6f94da0d-9702-4615-86c2-e6816fde813b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "4",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "05458c35-66b2-4768-ba19-7d69d036901b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "5",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "5b82f515-46d5-4f9c-abc7-210ac7050a7f",
+   "name": "Frog Pump (Smith)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "37013276-0a7a-4533-b227-d3200b6aa1a6",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "2c02b8e6-7e3f-4a91-b80d-f31114fda691",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "150b4519-4065-4c9f-9f90-565ad1b87199",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "eb0434d4-cc8a-4636-98c4-4aa3c2bff700",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "96a3ee56-ada2-4605-80f4-c26993a71873",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "e4279965-fed7-4706-82fe-c55ab1e51aab",
+   "name": "Romanian Deadlift",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "1230848c-6bbf-4c78-988b-4317000fe66c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "4f79d5c5-d818-4e10-be0c-c34517950e7b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "d4145e51-3457-471b-86d4-83e85f8b9088",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f0dde23a-7f9b-4de0-b7b4-250787fd3136",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "5",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "100f9ec2-8829-4032-89d4-5d1a8c044ebf",
+   "name": "Bulgarian Split Squat",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "1835bbcd-aab6-4b5a-9f5c-51bc178d54fa",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "25d7939a-542f-401b-839e-29fe65fbb36e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "7.5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "2f04d378-a456-46a4-9619-fa9eeab54aa5",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "7.5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

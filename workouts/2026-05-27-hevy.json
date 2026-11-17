@@ -1,0 +1,261 @@
+{
+ "id": "2026-05-27-hevy",
+ "dayId": "import",
+ "dayName": "Unilateral (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-05-27T07:34:00Z",
+ "endedAt": "2026-05-27T08:07:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "1516a5e9-c235-453c-a9e4-a01ca6d0f7f4",
+   "at": "2026-05-27T08:07:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "bf9de20a-402d-453f-a19e-fbac38c796a6",
+   "name": "Front Foot Elevated Smith Lunge",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "681efc33-5ce2-42cb-a92d-b9f9e6b3f48c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "4",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "26faf31f-d90e-438f-b4b8-f95df55ff90e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "3",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "93231672-cdcf-4542-a5cf-d72f3ec56287",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "3",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "9ebc3648-b6d7-4309-92cf-837a8ac67ff1",
+   "name": "Single-Leg Hip Thrust",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "93434d1b-b30b-4409-bc23-1ea7a5ece127",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "6e17d673-3810-4218-be8d-1a747a7a9a5e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "93330453-f0db-4c2f-bbf9-b9c715c2d693",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "7",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "b4431f46-975f-4afe-8c77-1dc20bcfccfc",
+   "name": "Seated Hip Abduction",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "9a5d5d82-c995-4cfd-8b1d-82dd06c6c899",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "13",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ecf5a2d4-5226-4972-9f5b-9565373fa066",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "19bcd0cc-7f0e-4ece-9c41-5069e57ac27c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "d63d2e61-84fa-4fc0-98ee-12f44740ec61",
+   "name": "Single Leg Romanian Deadlift (Dumbbell)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "1f35b8c2-c3ae-4a77-9628-de0506f6d64d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "17a45405-4807-45f9-9347-07c66b9f833a",
+   "name": "Leg Extension",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "2ea59734-b1b9-4e10-8627-65d6587966be",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b42487d8-db6f-4a6a-a095-ec088241e8ce",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a96f90c8-0a3b-461c-a57d-a5a579aa751d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "45",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "8fa568a1-bbef-4cb0-b728-e2c7d29f4059",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "ce65aa9e-e917-489c-bc8a-758baa19be37",
+   "name": "Crunch",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "dec40fa5-3cab-499e-ae7a-fd9f53929016",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "2",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

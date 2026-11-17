@@ -1,0 +1,248 @@
+{
+ "id": "2026-10-07-hevy",
+ "dayId": "import",
+ "dayName": "Wednesday (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-10-07T16:09:00Z",
+ "endedAt": "2026-10-07T16:56:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "514e7d9a-c6cc-43cf-8f1d-f7cc752c38e1",
+   "at": "2026-10-07T16:56:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "cbecf6a4-a7a4-4dc2-8e1e-dc3407b9f42a",
+   "name": "Leg Press",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "8cc5d5fa-54ac-4b52-bc3c-2b7fe5712359",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b439da2a-445b-4910-a68c-4f760a9ba37f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f84656c3-1bb4-4ed9-bc48-a0512f34a9a9",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "5fb3a6df-3759-477b-8ca7-75105b65e563",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "8",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "37e4434b-aff9-4513-a35a-ead2135fecee",
+   "name": "Leg Extension",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "c25bbe3d-168e-4a39-b4cb-9d21201b09b3",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "35",
+       "reps": "14",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "de0f992b-5dc8-4c8a-8571-a52df3d0f666",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "35",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "5fcc34c7-efb2-40cc-a526-75035cfd6c26",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "35",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "849e962a-5e08-431f-b279-a99a68870302",
+   "name": "B-Stance Hip Thrust",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "17c7cbbb-ad02-43f9-bb18-1457cabfdd25",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "abe3d9cb-a49b-4c22-9edb-c1444e3731a3",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "5b1b2be2-76d1-4800-b377-ac26fc01d34a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "7",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "5bdc8aa3-3842-4984-9f6c-3e76fa03d044",
+   "name": "Leg Press Calf Press",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "6ac08d24-ee5c-4a3b-867b-df465c0346d3",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b48dd2f1-1cbf-41a2-bc01-dc23d288d941",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "45880a72-9816-4808-a18a-ce44fb6c3423",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "73367677-d3f7-4927-aca5-ef33222fe09b",
+   "name": "Seated Calf Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "71d21de4-5ab5-4e4a-b156-2ac6b01b362a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "35",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "9583dc94-021f-4b16-b935-00cd63d5cfc4",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "35",
+       "reps": "15",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

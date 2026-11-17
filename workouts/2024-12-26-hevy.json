@@ -1,0 +1,248 @@
+{
+ "id": "2024-12-26-hevy",
+ "dayId": "import",
+ "dayName": "Unilateral (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2024-12-26T19:00:00Z",
+ "endedAt": "2024-12-26T19:36:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "2abc8aa7-a3ed-4657-9508-3fb00ad9886d",
+   "at": "2024-12-26T19:36:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "014176bc-3f96-4c9e-8b31-d312ae812c6d",
+   "name": "Single Leg Hip Thrust (Dumbbell)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "3fa6679a-98ed-4e08-9524-629bd65b4539",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "2139228b-8216-4f69-ba2a-0caff4f8eb3f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "012dbc39-1840-4728-8e1e-00b3b66d133e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "11",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "602a724d-003a-442e-b69d-5d0fd1233753",
+   "name": "Reverse Hyperextension",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "72ca05af-d545-40f5-9e69-efafb5f06c8c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "3",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ec9fece7-ea23-4127-a632-275a6ca1809a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "3",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "6b0914e5-f5a8-4938-b990-2aaa5f6ef45d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "3",
+       "reps": "14",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "18aac70f-c1cb-49b5-b6d3-1ddd96819cd4",
+   "name": "Standing Cable Kickback",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "38f1147e-c7ec-4fb8-a777-995cba4116df",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "27797849-3a0b-46ef-9b83-f795036ec042",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f8f52fc8-bee8-4c1c-aec6-9dbc9d628285",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "6",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "91fc4e4c-db42-4feb-8c95-915751a09e74",
+   "name": "Seated Hip Abduction",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "74e5394a-b52f-471d-8371-1b050be88594",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "20",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "3b0485eb-ab55-40d1-b49c-eff9d4b20572",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "23",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "e17265e2-0c40-4116-b393-78d4a58f50e2",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "20",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "fbc0afd2-7a7c-429e-a66a-acc2f6119e8c",
+   "name": "Glute Kickback (Machine)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "f4feb0e7-4009-4e2e-8700-8add8840fc7a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "7a92c5eb-e4ef-41e3-955e-bed550ab78b8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c547a53c-e6ae-4d04-abf3-7db0093bb725",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

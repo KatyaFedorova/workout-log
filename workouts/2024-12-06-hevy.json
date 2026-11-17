@@ -1,0 +1,156 @@
+{
+ "id": "2024-12-06-hevy",
+ "dayId": "import",
+ "dayName": "Shoulders/back 2 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2024-12-06T18:47:00Z",
+ "endedAt": "2024-12-06T19:24:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "f634d68e-214c-44fd-a03b-49688a4afd0b",
+   "at": "2024-12-06T19:24:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "6dd309be-23b5-4b5f-b9a2-a82f226b7c8b",
+   "name": "Bench Press (Dumbbell)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "fd45c058-f57f-416f-99f7-e9e9b96bd64a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "e32fb349-1a36-4172-a5c7-70921e683d9d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "1262df5a-eccf-417f-98d9-b3a538520129",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "bfd6c801-ff79-45e8-b6d8-e6b131b4c18a",
+   "name": "Seated DB Shoulder Press",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "a37d0af4-bdbb-4c13-9349-84d6445b160b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "163428b8-29e1-4306-b2f4-2490972efb89",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "14",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "49d07d81-a325-4a30-a65c-ede52f9e04fa",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "7f41db63-4236-493c-acf9-44f0f6c762c0",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "aeca9c83-59ea-437d-8308-5331755793be",
+   "name": "Dumbbell Row",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "8154dc35-2785-4691-9a58-2f8114f1aa59",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "14",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c6e62c6b-9626-43a9-a73f-97f4fb2d10d4",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "14",
+       "reps": "7",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

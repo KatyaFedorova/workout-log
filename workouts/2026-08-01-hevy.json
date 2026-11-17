@@ -1,0 +1,281 @@
+{
+ "id": "2026-08-01-hevy",
+ "dayId": "import",
+ "dayName": "Legs B (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-08-01T08:09:00Z",
+ "endedAt": "2026-08-01T09:20:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "a6278080-8058-4ff1-8c35-354706f6b47b",
+   "at": "2026-08-01T09:20:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "a18d04d5-1621-48af-afae-f69f56537b43",
+   "name": "Glute Activation",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "3ada9a7d-a304-490d-b867-9123bdfe162a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "7af570c3-3809-4042-8ee2-dd0d99ef1371",
+   "name": "Frog Pump (Smith)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "d8ead8f5-b614-4bac-b9ae-5b9bcba80964",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "927e4130-aa64-4b29-9c03-c4727b27ccb2",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "629c32c6-f14d-4cce-bd8b-96937bc2590f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "432237a4-817e-4d51-8937-7e7c2cdc7ca1",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "37aebc95-90ed-4671-ab1f-77b73b557720",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "5d244d9f-296e-48fc-a6d1-c02af95dc6cc",
+   "name": "Romanian Deadlift",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "94eed8d0-cd82-4d75-97b3-c86c515f26d7",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "5bdac1b4-1561-4702-9beb-9b2ae11b3e4e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "98686b94-85af-4faa-a646-0ef4b8f4653d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "aee4f26a-3221-4016-81d1-8a77236c60a8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "769a10ec-14b0-4273-9c42-139eaf1acbbd",
+   "name": "Bulgarian Split Squat",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "eb1d1dad-6a7e-48f9-a9f7-25c5d70086ad",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b57dd031-bc2d-413e-a0ba-7a7a4494d9fa",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f9fa21f5-049c-4b69-9934-08dcc9abf313",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "da318b68-a54f-4c4a-b9a4-574860148b8b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "5",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "4059f933-c859-4ad5-a855-b47d210a4b9b",
+   "name": "Standing Cable Kickback",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "bff65364-b35e-4553-bb97-5de314efd8a5",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b1c167a4-c2e6-4457-8f0a-1cf119e02d22",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "cc86e191-bb9a-4682-8249-fb7b64e35ef1",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "7",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "12926c0b-9eb4-48ea-b571-75a4cd1769fa",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

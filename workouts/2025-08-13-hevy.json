@@ -1,0 +1,53 @@
+{
+ "id": "2025-08-13-hevy",
+ "dayId": "import",
+ "dayName": "Legs2.1 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2025-08-13T17:00:00Z",
+ "endedAt": "2025-08-13T17:13:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "7b9e6cc9-524a-443a-83de-4d453d9fba4a",
+   "at": "2025-08-13T17:13:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "be43d644-a808-45b9-8486-b6e4e7ca7a63",
+   "name": "Dumbbell Step Up",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "d7854e86-6961-436b-8956-cba7fada04d1",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "934024d7-c62e-4393-8b11-fb18cc5dc79c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

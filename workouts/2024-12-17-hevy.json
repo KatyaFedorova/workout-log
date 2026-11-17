@@ -1,0 +1,64 @@
+{
+ "id": "2024-12-17-hevy",
+ "dayId": "import",
+ "dayName": "Legs2.1 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2024-12-17T16:13:00Z",
+ "endedAt": "2024-12-17T18:05:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "bb865ff1-edf1-41d9-8bdf-492cbf38f063",
+   "at": "2024-12-17T18:05:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "f4f9812b-8590-49fc-b257-1317f8e13a8e",
+   "name": "Sumo Squat (Dumbbell)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "612c732d-df9c-4da9-b308-ed41534689bf",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "24",
+       "reps": "20",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f2f3d8ba-bc24-451e-a33e-2afb7b01a45a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "24",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "efdf3bd8-6dfa-4aa7-8f39-aa6c46152db4",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "24",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

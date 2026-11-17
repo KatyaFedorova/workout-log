@@ -1,0 +1,132 @@
+{
+ "id": "2026-02-23-hevy",
+ "dayId": "import",
+ "dayName": "Legs B (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-02-23T18:02:00Z",
+ "endedAt": "2026-02-23T18:43:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "8e7654b5-2ee4-4640-a3d9-dba9f71cf65d",
+   "at": "2026-02-23T18:43:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "2ce90c86-2a55-4bd6-8054-74c6a073231a",
+   "name": "Sumo Squat",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "a373cbaf-72d6-44c4-b070-69eb5f5f2574",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b466f7f5-7c8e-4cbf-aa1d-0e3276e60d3e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "4",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "58775560-7007-4732-b07c-cabe5b7ab3c6",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "8d9aba50-7877-4588-892a-6dc1d600c78a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "5",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "179b29a9-901e-4e2e-abd8-e470cc966a77",
+   "name": "Romanian Deadlift",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "df1101a7-5627-42f6-a59b-a600119d0dad",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c0443203-d12b-446f-b87a-92354dd4bbfc",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "66aa483a-05c7-4516-82ad-17adc13906e6",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "75fb5502-994f-4427-8a0d-40ce4516aad2",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12",
+       "reps": "9",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

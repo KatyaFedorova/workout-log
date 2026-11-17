@@ -1,0 +1,428 @@
+{
+ "id": "2025-03-07-hevy",
+ "dayId": "import",
+ "dayName": "Legs2.2 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2025-03-07T07:44:00Z",
+ "endedAt": "2025-03-07T09:06:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "c0678385-672c-4df3-8532-7e3e8a0b0721",
+   "at": "2025-03-07T09:06:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "8f1872a0-50cc-4853-8b92-6bb4b14b2308",
+   "name": "Glute Activation",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "53365aeb-9dc1-4fc9-b32f-ec6cf21fd6b1",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "35",
+       "reps": "25",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f66dd9ab-d72a-45ef-9ae2-3ad509593dc5",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "35",
+       "reps": "25",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "abe2f70c-f812-410c-9ff9-273079011941",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "4f4cca72-2d46-4652-bba0-fe85c1be44f6",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "b0fc758d-be5c-4c19-8d02-ce3bf9300daf",
+   "name": "Single Leg Press (Machine)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "83cf87fb-1c88-4e5f-b2f0-ae58a09d7611",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "11ad5aeb-473b-4b65-a858-7a6d0a28f84e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c828b279-8979-44f3-8624-4de1c39d6ada",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "16fbb9d8-bd49-42b6-a017-1a6ec99c33e0",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "bc0ef54b-3482-4561-8904-a68e85a883f4",
+   "name": "B-Stance Hip Thrust",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "f7cfe5bc-6b29-47d5-9f87-54d84ee70d02",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f8228dd8-f4ae-4254-921f-357624014c9d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "72b22fdd-a7a8-42f8-bf1b-b35dc025404c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "95405eed-d8c3-4751-8a95-f11a70de9b37",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "5dd13859-4db3-422a-a131-23b1a1848c29",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "7",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "06159f9c-7cf6-44bc-b3a2-edd885ac7670",
+   "name": "Romanian Deadlift",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "602ce289-5743-498b-a3c9-f2114296aabc",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "922cb912-2d65-45e4-85db-53836299cc57",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "7c45ec6b-ae48-4f3b-b3e5-e516ab5eefd8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12.5",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "fb1a24e8-eb15-4857-a576-57abcd9ed265",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12.5",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "e1b36adb-493a-4eab-af9d-f8a3d3ef5176",
+   "name": "Leg Extension",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "4402f16e-32e7-425b-96ed-0df9b27b46be",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "23",
+       "reps": "20",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "e933e42f-89d9-48f7-80ea-77a34768d760",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "23",
+       "reps": "13",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a0ba1af8-b05a-4521-accc-977f9de5fb07",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "23",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "cd8d6a55-b73a-4c04-b1c5-80379e7cc4ee",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "23",
+       "reps": "11",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "cd122b66-5101-4ed2-a5c5-fbdbcdda20df",
+   "name": "Seated Hip Abduction",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "a4167fd5-da6f-4fba-af39-4e5809ba122c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "45",
+       "reps": "20",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c98bd9f7-d9b8-4a28-bbfb-86f457db2cf8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "45",
+       "reps": "20",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "d45079a3-e3ab-4b82-be13-cc3b96e31d72",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "45",
+       "reps": "20",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "87d9d4ee-990e-4b78-aa8d-70aaed9aa01e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "45",
+       "reps": "20",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "63f72916-d4a4-4786-9e45-a6117ec3a6cd",
+   "name": "Back Extension (Weighted Hyperextension)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "628c2539-a166-4fe0-9eea-bdfbb7bdffe2",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "14",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "76cf16ea-736c-400d-a71d-4b0937c3e6d4",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "14",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "23523671-c556-4e7b-a1ec-33745406ef20",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "14",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "66e5d536-03a7-486f-92c2-a384ebad37b3",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "14",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

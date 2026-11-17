@@ -1,0 +1,178 @@
+{
+ "id": "2024-10-06-hevy",
+ "dayId": "import",
+ "dayName": "Shoulders/back 2 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2024-10-06T12:02:00Z",
+ "endedAt": "2024-10-06T12:35:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "b81a2330-753a-4e44-a4c8-f888528537a8",
+   "at": "2024-10-06T12:35:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "38ff1292-7779-4a17-941c-621dac737f3e",
+   "name": "Bench Press (Dumbbell)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "edd8254d-042a-4949-ada0-3e9e3e551bd0",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "87b1396c-51c7-4e1e-a9b0-30fb0df184aa",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "6b83963a-e0ee-4472-af23-9ad98fbe968e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "866dd554-3c47-4796-9458-95ea62187475",
+   "name": "Wide Pull Up",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "5e38306b-f051-4b88-bdf9-b291ac982c9b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "8270e111-e4f8-4276-8dd5-de521bc175cb",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "5f4fc547-81a6-4800-816d-64f7b1fabf3c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "cc78f1eb-f2bc-4d8c-b218-9ac1909e9b63",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "",
+       "reps": "9",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "7ab0c5f6-bb8d-4bbd-a702-26f62b2158e2",
+   "name": "Lat Pulldown (Cable)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "13e8cc17-62b7-4e6f-9312-26cccc27e9b5",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "3de5a724-f026-4bac-81fb-40139ececb8c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "25005d09-9a3e-42f0-bacd-88aa66ea3647",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "6732fec2-9b28-46aa-86c5-2d8858346d53",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

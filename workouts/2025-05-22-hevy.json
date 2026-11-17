@@ -1,0 +1,202 @@
+{
+ "id": "2025-05-22-hevy",
+ "dayId": "import",
+ "dayName": "Unilateral (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2025-05-22T08:02:00Z",
+ "endedAt": "2025-05-22T08:32:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "5f6b25c5-411d-4f05-bf35-e4eb40530c6c",
+   "at": "2025-05-22T08:32:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "c47ea4f9-c7fc-4785-97f5-07dfcb878353",
+   "name": "Single Leg Hip Thrust (Dumbbell)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "a0ad5601-9078-46e3-99f6-b2530ee4b7df",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "eadecf2b-21a6-486d-99d2-2aa13b2e073e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "fe6e1b0f-1b15-4e92-9ece-970dc9d17968",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "aab6a621-39c4-4c43-b974-4c41f7847808",
+   "name": "Standing Cable Kickback",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "64c137eb-88ce-4282-81e1-b0212639fde9",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "02fceb54-71ff-4998-8383-2823c9937e29",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "4225ce71-25c9-449b-ac2a-f192210123fc",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "15",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "4823ec1a-dcb1-41b8-9324-c498a63caed2",
+   "name": "Seated Hip Abduction",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "98fe740f-ec70-4b28-a186-eeb959b76ece",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "538881ff-bdb9-44dd-8527-1cc753585115",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "41",
+       "reps": "19",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "e527f919-a00a-49a7-bdd1-3892d190513b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "41",
+       "reps": "18",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "12056116-47c0-4e5d-8835-92ba3a646086",
+   "name": "Glute Kickback (Machine)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "991c1ff4-c1bf-4210-b10f-c691fd92407b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "34e856d4-4c38-450a-a141-07469da06642",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a4205548-a839-480b-a6e2-c8d53b781efb",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

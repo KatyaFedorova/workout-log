@@ -1,0 +1,211 @@
+{
+ "id": "2026-06-03-hevy",
+ "dayId": "import",
+ "dayName": "Legs A (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-06-03T07:11:00Z",
+ "endedAt": "2026-06-03T08:04:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "471a72ed-bdc6-41b4-8335-3a87ade412fe",
+   "at": "2026-06-03T08:04:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "f2d41ca4-2400-420c-8741-6ba312017f26",
+   "name": "Glute Activation",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "b308e653-677b-45f0-a382-362c2f12db78",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "6b7a9c90-ebcc-4ddb-a953-e5a5eb90452f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "d23ef86c-4431-4180-b841-22e98e81e90e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "3eb86d7f-949b-4112-92fe-2a3a77dee216",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "b22c906d-d752-4e67-8f97-90530171b669",
+   "name": "Sumo Squat",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "3924b219-ca94-44dd-99ce-a883f2410d96",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ea57f537-f89e-4993-86d5-8ed823419af1",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "2.5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "c0a687bf-1681-4bc7-a17e-ad9c7c54f79f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "2.5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "2f7e81a0-723c-48b6-9537-83d9efa771da",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "2.5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "0ea23383-0231-4fed-b536-dd61e80d6eae",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "2.5",
+       "reps": "4",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "c406b2b2-28d0-4801-819f-abcfca2ab6b9",
+   "name": "Frog Pump (Smith)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "8c66fbf2-8fbf-4219-8eb4-4790560ba173",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "27.5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ecbf067d-ed12-4066-970f-447ea8aa1980",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "27.5",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "28f9290d-7784-4fbc-8548-ab547523c4a3",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "27.5",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "91f7ac57-23ba-4554-8eec-85738cf1a415",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "27.5",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "201c6e35-561a-421b-b94b-167aa0ddafb5",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "27.5",
+       "reps": "3",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

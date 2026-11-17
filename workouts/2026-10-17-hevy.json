@@ -1,0 +1,121 @@
+{
+ "id": "2026-10-17-hevy",
+ "dayId": "import",
+ "dayName": "Tue (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-10-17T07:28:00Z",
+ "endedAt": "2026-10-17T07:46:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "e4e907c3-6f20-4741-a004-eab7a25a055a",
+   "at": "2026-10-17T07:46:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "e193b615-a209-4541-aa9e-21c746bf17f6",
+   "name": "Incline DB Front Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "f35585ae-c46e-41c1-888d-34c21ecc7043",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "3",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f012f43e-0572-4cc3-809a-7980be5224c4",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "3",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "9539967b-7b8f-4bd7-b791-f67f12ed25dc",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "3",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "111efb5f-5ef1-4225-9bd7-073a55180a81",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "3",
+       "reps": "6",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "25671046-8ac4-4258-888e-748b38c7bbe1",
+   "name": "Cable Lateral Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "2331653a-d15d-479c-a038-313613b3ef3d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "3",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "55672307-5dbe-49a4-9216-c208af301ca3",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "2",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "50247c58-9c06-4ee8-a908-567d8e2113cb",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "2",
+       "reps": "6",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

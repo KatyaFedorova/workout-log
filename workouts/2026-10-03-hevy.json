@@ -1,0 +1,167 @@
+{
+ "id": "2026-10-03-hevy",
+ "dayId": "import",
+ "dayName": "Friday (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-10-03T11:39:00Z",
+ "endedAt": "2026-10-03T12:24:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "9238287f-5155-4925-b4c8-d9f6e5e8555d",
+   "at": "2026-10-03T12:24:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "c35a5dcb-b11c-47e7-b949-e45af4e7bca8",
+   "name": "Deficit Reverse Lunge",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "00d57f0c-197c-46a9-92f4-f3a5b217beaa",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "e3c1784d-983d-4927-b661-0385e0bbca2d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "75d79de7-4f48-4d3d-a9a1-d1a661308884",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "92276bce-1ca3-48d6-b9f8-8689755a16be",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "7b415949-0ef3-42af-99f7-49713feda9ca",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "4",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "83db248c-c4e3-46e6-8fbe-d68fdccbaf77",
+   "name": "B-Stance Hip Thrust",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "30f11632-9a5b-4228-8ded-30b561d09e95",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "9944a406-08b8-4a47-85b1-6c7998474c25",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "7",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b3e24e0a-711d-4512-b031-acb2187e1c5b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "5",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "92fc86be-17c1-4a58-82ec-750fa5a69e64",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "6",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "b3be491f-15a1-4c56-8db3-e32fac752950",
+   "name": "Kickstand RDL",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "5c2b2efb-fc21-42cc-994e-528bea2cb63a",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "9",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

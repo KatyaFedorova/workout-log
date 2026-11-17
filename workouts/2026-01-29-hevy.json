@@ -1,0 +1,167 @@
+{
+ "id": "2026-01-29-hevy",
+ "dayId": "import",
+ "dayName": "Shoulders/back 2 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-01-29T17:24:00Z",
+ "endedAt": "2026-01-29T17:46:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "93b7f0e5-dba7-4780-b0e3-b11f2a496cca",
+   "at": "2026-01-29T17:46:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "97ddfb1c-162b-4cd0-a869-232858b27251",
+   "name": "Bench Press (Dumbbell)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "f198f229-98cc-444f-a6ef-861663e6a704",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12.5",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a77525e0-cd6d-423d-a8f4-1a84dd0ed027",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12.5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "6f1e30a8-c2ac-4e2a-843b-2a9894653611",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "12.5",
+       "reps": "3",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "5bdc2829-5a87-41d3-8a54-5e659b8144fe",
+   "name": "Seated DB Shoulder Press",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "230463ff-ddd4-420b-a223-e0ddea7b4cc8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "7.5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "2bf8db18-210b-4ec0-9299-093756a7af8e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "7.5",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "478cd927-9566-4a34-a42e-bbb4d0d7dba7",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "7.5",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "3421ebc3-d5c9-44df-8e89-e455790463d3",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "7.5",
+       "reps": "6",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "d6e21aad-7a2c-4f26-b2ec-c0aa72c7e2a2",
+   "name": "Cable Lateral Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "54f89c71-9cd6-4e10-82fd-1f7bf5a5f553",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "d312317e-1a75-4019-9f6f-6098c4ed32c8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "fa116daf-15d2-4756-abf8-8e66528924ce",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "9",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

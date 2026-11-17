@@ -1,0 +1,224 @@
+{
+ "id": "2024-12-08-hevy",
+ "dayId": "import",
+ "dayName": "Legs2.1 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2024-12-08T11:28:00Z",
+ "endedAt": "2024-12-08T12:29:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "f97af3a1-fa63-41e0-8b32-62ad133b517f",
+   "at": "2024-12-08T12:29:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "36fb6e64-697b-457b-9c27-0736ae9b59b8",
+   "name": "Glute Activation",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "17938d1a-2421-44af-8487-e905eef88364",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "8ab865a3-8a1b-44ec-8c54-59db04aeb50c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "35",
+       "reps": "28",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "cc5741f2-e639-478c-95dc-bc6f3ac1df2d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "25",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "c3eba2c2-c4d8-461e-ae25-1a79e9762b0c",
+   "name": "Sumo Squat (Dumbbell)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "45db9b7b-f899-455a-8f4f-878dd1161de8",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "24",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "bf9e4fcc-57d9-40b9-aad3-23c53ba6e4b1",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "24",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "5de6fcf5-deb5-4037-9f0a-a3a2cd57a160",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "24",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a70909c4-b107-4f8e-babc-204f90f27094",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "24",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "93283216-461c-4872-8c02-bfadbb0845aa",
+   "name": "Frog Pump (Smith)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "c434de91-d957-4a9e-9567-dab846d400c9",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b781a39c-2c96-46fe-ba57-c19618728b1c",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "15",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "aa32a5a3-aeee-4377-97c0-aff995263c24",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "7",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "80b7f9a1-0b90-4da5-951d-8d827bb4121d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ab5e3c8e-b2c6-4f83-8ce8-40cfd7247090",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "20",
+       "reps": "11",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "0828b7db-5525-4320-9f63-268d9d738b75",
+   "name": "Kickstand RDL",
+   "unilateral": true,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "bb48e199-96d4-433b-845f-81552568da3d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "becc5469-489c-4ff7-890d-ed3506071f2b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "15",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

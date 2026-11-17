@@ -1,0 +1,406 @@
+{
+ "id": "2025-05-15-hevy",
+ "dayId": "import",
+ "dayName": "Shoulders/back 2 (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2025-05-15T15:57:00Z",
+ "endedAt": "2025-05-15T16:57:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "80edcfb9-e43a-4c79-9209-3060dc96c849",
+   "at": "2025-05-15T16:57:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "6c3f8209-19dc-4f84-b840-13631a9d4a48",
+   "name": "Bench Press (Dumbbell)",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "5240c48a-8258-4fe7-b990-a46adc910b7b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "8",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f67f5379-be4c-4b11-8fde-76cc26888f0f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ad7da190-6172-40b1-9e50-637c63fd917d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "12",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "7c6a005e-b7b5-4f0a-8e84-08c6558782f0",
+   "name": "Seated DB Shoulder Press",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "de622fe9-c9d4-4a88-b4cb-771ed20af849",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "6",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ce92b59b-f77b-4267-925e-ba3e130f4564",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "11",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "f6ca5854-8a22-4915-b0ee-d0c1c07c13e1",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "9",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a4d151af-9ad4-4ff0-8383-bf8cbc5954f6",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "6",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "2f83aa32-5095-406c-a317-e7b2a09b3602",
+   "name": "Dumbbell Row",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "5913deaa-a550-4825-ba4c-fdbea2e3e0df",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "16",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "7a4e3bd9-4efe-48b8-ad71-c619d1830733",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "16",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ae56e8ce-04f1-4089-9c5d-a54fc7608dbf",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "18",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "86e66582-87ff-4c49-8e32-d47dd76794ef",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "16",
+       "reps": "9",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "ed6e7d20-66cb-4ba5-ab46-c68c2a0ca6e8",
+   "name": "Cable Lateral Raise",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "6b3a5c46-b681-4091-bf5a-c09ab01d5f52",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "d5f2ee46-8a87-4124-9d71-c29f9b1057d6",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "4092886b-33c4-4ffe-b40b-cf59edb0fed3",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "83419b6f-9e8b-402b-bf45-b23c06ca026f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "15",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "0e965934-050b-4eec-ac2c-e28adca34870",
+   "name": "\u041c\u0430\u0445\u0438 \u0433\u0430\u043d\u0442\u0435\u043b\u044f\u043c\u0438 \u0432 \u043d\u0430\u043a\u043b\u043e\u043d\u0435 / Rear Delt Fly",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "c9d76a00-fda6-4316-9590-aa17aa8cb55d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "13eee352-19cd-432b-958e-597ff47f537d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "a8d2e169-129c-45d0-9cdc-fa797ad0659b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "14",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "3d141ce4-72d3-4336-8e30-67988ac74bbe",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "4",
+       "reps": "14",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "6abd2559-bb49-48aa-9e73-01b103db3603",
+   "name": "Preacher Curl",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "e0af3c69-b1b9-49d0-adf9-70d50162b237",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "6",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "75441541-0dc6-4b34-b737-4d7e84621398",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b2663344-e4ab-4bbb-bf9e-ba43d274a628",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "be1f02f9-0523-42c0-a989-c551d22440e2",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "8",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "71c09f1f-2d96-4c23-bce1-613eb6030737",
+   "name": "Overhead Triceps Extension",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "3a7264a8-670d-4b7b-8652-c092f8a7eb80",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "10",
+       "reps": "13",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "1d77a884-cf76-4dd6-b473-eab372342060",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "7",
+       "reps": "12",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "1e7dd83e-2388-40ce-aa26-1550c1f000bc",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "15",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "e11cb16f-27be-4fb8-baec-f7233c1d15df",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "5",
+       "reps": "11",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

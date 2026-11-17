@@ -1,0 +1,178 @@
+{
+ "id": "2026-09-11-hevy",
+ "dayId": "import",
+ "dayName": "Friday (Hevy)",
+ "daySub": "imported from Hevy",
+ "startedAt": "2026-09-11T07:24:00Z",
+ "endedAt": "2026-09-11T08:31:00Z",
+ "finished": true,
+ "notes": [
+  {
+   "id": "c8a86bcb-9fd0-498f-9fdb-70ee22fa6f50",
+   "at": "2026-09-11T08:31:00Z",
+   "text": "Imported from the Hevy export. Hevy had no side field, so these sets are recorded as both-sides."
+  }
+ ],
+ "exercises": [
+  {
+   "id": "a68d905c-77d6-47cb-8e38-0f4465524aab",
+   "name": "Front Foot Elevated Smith Lunge",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "486678ad-3c76-4933-b59f-3c2e3283179b",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "3",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "586b639b-effd-4cca-ae97-395852403d89",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "3",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "47509a2e-f0e9-4120-86aa-d7858d799284",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "0",
+       "reps": "3",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "d5472cdc-6613-4042-b6b5-9e555bb23ba6",
+   "name": "Platform",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "ab385662-3d68-4e03-b66b-b6309a3b32de",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "7",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "00da34b8-12ad-474c-8eab-1825c43b9a3f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "5f7d6064-0334-4608-bdcf-df3808c02d7f",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "6",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "b26de576-e96c-44f9-a75d-7a8bbf13462d",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "50",
+       "reps": "4",
+       "done": true
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "7202d611-a338-4aea-a579-9775fa6a28cd",
+   "name": "Leg Extension",
+   "unilateral": false,
+   "split": false,
+   "restSeconds": 120,
+   "repLow": 8,
+   "repHigh": 12,
+   "cue": "",
+   "note": "imported from Hevy",
+   "sets": [
+    {
+     "id": "4512115b-2551-4c08-9326-bfceb2941d22",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ad819c88-0f67-413f-a23a-06692b374a05",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "3f868f7c-a5a4-4a60-912d-d74efc30fc29",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "10",
+       "done": true
+      }
+     }
+    },
+    {
+     "id": "ed27baac-f670-4111-9dcf-e2f53a925f0e",
+     "note": "",
+     "values": {
+      "B": {
+       "kg": "40",
+       "reps": "10",
+       "done": true
+      }
+     }
+    }
+   ]
+  }
+ ]
+}
