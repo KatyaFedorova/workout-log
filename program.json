@@ -1,0 +1,146 @@
+{
+  "version": 3,
+  "updated": "2026-11-19",
+  "note": "Source of truth for the program. The app reads this on launch. Edit here or in the app.",
+  "days": [
+    {
+      "id": "legsA",
+      "badge": "MON",
+      "name": "Legs A",
+      "sub": "Unilateral hip extension · glutes",
+      "weekday": 2,
+      "exercises": [
+        {
+          "name": "B-Stance Hip Thrust",
+          "sets": 4,
+          "repLow": 8,
+          "repHigh": 12,
+          "restSeconds": 150,
+          "cue": "Shin vertical at the top, pelvis tucked, ribs down. Left leg first. Mark your foot position."
+        },
+        {
+          "name": "Bulgarian Split Squat",
+          "sets": 4,
+          "repLow": 8,
+          "repHigh": 10,
+          "restSeconds": 150,
+          "cue": "Torso leaned 30-45 degrees forward. Left first."
+        },
+        {
+          "name": "Romanian Deadlift",
+          "sets": 3,
+          "repLow": 8,
+          "repHigh": 10,
+          "restSeconds": 120,
+          "cue": "Hamstring-dominant by design - don't chase glute feel here."
+        },
+        {
+          "name": "Seated Hip Abduction",
+          "sets": 3,
+          "repLow": 12,
+          "repHigh": 15,
+          "restSeconds": 90,
+          "cue": "Torso leaned forward. Stop at 15, then add load."
+        },
+        {
+          "name": "Standing Cable Kickback",
+          "sets": 2,
+          "repLow": 12,
+          "repHigh": 15,
+          "restSeconds": 90,
+          "cue": "Torso near parallel to the floor."
+        }
+      ]
+    },
+    {
+      "id": "legsB",
+      "badge": "WED",
+      "name": "Legs B",
+      "sub": "Quads · calves · left glute",
+      "weekday": 4,
+      "exercises": [
+        {
+          "name": "Leg Press",
+          "sets": 4,
+          "repLow": 8,
+          "repHigh": 10,
+          "restSeconds": 150,
+          "cue": "Back to 50 kg - your October number. Feet mid-platform, no lumbar rounding at the bottom."
+        },
+        {
+          "name": "Leg Extension",
+          "sets": 3,
+          "repLow": 12,
+          "repHigh": 15,
+          "restSeconds": 90,
+          "cue": "Back to 35 kg."
+        },
+        {
+          "name": "Single-Leg Hip Thrust",
+          "sets": 3,
+          "repLow": 8,
+          "repHigh": 8,
+          "restSeconds": 90,
+          "cue": "LEFT SIDE ONLY. Bodyweight, no dumbbell. Stop 1-2 reps short."
+        },
+        {
+          "name": "Leg Press Calf Press",
+          "sets": 3,
+          "repLow": 10,
+          "repHigh": 12,
+          "restSeconds": 90,
+          "cue": "Forefoot on the plate edge, knees soft, full heel sink, 2s pause. 45 kg."
+        }
+      ]
+    },
+    {
+      "id": "legsC",
+      "badge": "FRI",
+      "name": "Legs C",
+      "sub": "Long-length glutes",
+      "weekday": 6,
+      "exercises": [
+        {
+          "name": "Deficit Reverse Lunge",
+          "sets": 4,
+          "repLow": 8,
+          "repHigh": 10,
+          "restSeconds": 150,
+          "cue": "5-10 cm platform. Left first."
+        },
+        {
+          "name": "Single-Leg Hip Thrust",
+          "sets": 3,
+          "repLow": 6,
+          "repHigh": 12,
+          "restSeconds": 120,
+          "cue": "Bodyweight. Add reps 6 to 8 to 10 to 12 before any load. Shin vertical, pelvis tucked."
+        },
+        {
+          "name": "Kickstand RDL",
+          "sets": 3,
+          "repLow": 10,
+          "repHigh": 12,
+          "restSeconds": 120,
+          "cue": "Back toe down for balance only, ~90% of the load through the front leg."
+        },
+        {
+          "name": "Standing Cable Kickback",
+          "sets": 3,
+          "repLow": 12,
+          "repHigh": 15,
+          "restSeconds": 90,
+          "cue": ""
+        },
+        {
+          "name": "Seated Hip Abduction",
+          "sets": 3,
+          "repLow": 15,
+          "repHigh": 20,
+          "restSeconds": 90,
+          "cue": "Same machine as Monday - higher reps here."
+        }
+      ]
+    }
+  ]
+}
