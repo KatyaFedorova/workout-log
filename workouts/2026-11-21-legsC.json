@@ -10,7 +10,7 @@
       "note" : "",
       "repHigh" : 10,
       "repLow" : 8,
-      "restSeconds" : 150,
+      "restSeconds" : 120,
       "sets" : [
         {
           "id" : "C36714D2-3613-4A85-99F8-162D65E37933",
@@ -247,7 +247,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-21-legsC",
-  "lastEditedAt" : "2026-11-21T08:02:34Z",
+  "lastEditedAt" : "2026-11-21T08:13:19Z",
   "notes" : [
 
   ],
