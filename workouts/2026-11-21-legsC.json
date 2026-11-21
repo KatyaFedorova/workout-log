@@ -177,9 +177,9 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
+              "done" : true,
               "kg" : "10",
-              "reps" : ""
+              "reps" : "12"
             }
           }
         },
@@ -247,7 +247,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-21-legsC",
-  "lastEditedAt" : "2026-11-21T09:00:14Z",
+  "lastEditedAt" : "2026-11-21T09:04:09Z",
   "notes" : [
 
   ],
