@@ -213,7 +213,7 @@
           "values" : {
             "B" : {
               "done" : false,
-              "kg" : "",
+              "kg" : "7",
               "reps" : ""
             }
           }
@@ -224,7 +224,7 @@
           "values" : {
             "B" : {
               "done" : false,
-              "kg" : "",
+              "kg" : "7",
               "reps" : ""
             }
           }
@@ -235,7 +235,7 @@
           "values" : {
             "B" : {
               "done" : false,
-              "kg" : "",
+              "kg" : "77",
               "reps" : ""
             }
           }
@@ -247,7 +247,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-21-legsC",
-  "lastEditedAt" : "2026-11-21T09:08:46Z",
+  "lastEditedAt" : "2026-11-21T09:09:53Z",
   "notes" : [
 
   ],
