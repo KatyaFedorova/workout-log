@@ -1,0 +1,255 @@
+{
+  "dayId" : "legsC",
+  "dayName" : "Legs C",
+  "daySub" : "Long-length glutes",
+  "exercises" : [
+    {
+      "cue" : "5–10 cm platform. Left first.",
+      "id" : "F0E29247-E530-4A37-B27B-92927F1BE09E",
+      "name" : "Deficit Reverse Lunge",
+      "note" : "",
+      "repHigh" : 10,
+      "repLow" : 8,
+      "restSeconds" : 150,
+      "sets" : [
+        {
+          "id" : "C36714D2-3613-4A85-99F8-162D65E37933",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "12D87854-ED3C-423C-B609-B83A541A93BA",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "172AB1B2-9FC7-41BB-83D0-1A6E9638C6E0",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "B0FAD692-C9A9-4374-86FC-E13A0E9D7630",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : true
+    },
+    {
+      "cue" : "Bodyweight. Add reps 6 → 8 → 10 → 12, then load. Shin vertical, pelvis tucked.",
+      "id" : "0D0229D4-73F9-413F-8BD0-A33D874C3EA2",
+      "name" : "Single-Leg Hip Thrust",
+      "note" : "",
+      "repHigh" : 12,
+      "repLow" : 6,
+      "restSeconds" : 120,
+      "sets" : [
+        {
+          "id" : "5EB9F2B1-50CC-466C-AF0B-DAE135F16063",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "30C28CC6-C6E7-4F46-8EB5-ABC755DC31DF",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "4F292842-3216-48D0-BBCE-49DB8B8F0F85",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : true
+    },
+    {
+      "cue" : "Back toe down for balance only, ~90% of the load through the front leg.",
+      "id" : "513F8818-01FC-41DC-9465-0C0332BA43C2",
+      "name" : "Kickstand RDL",
+      "note" : "",
+      "repHigh" : 12,
+      "repLow" : 10,
+      "restSeconds" : 120,
+      "sets" : [
+        {
+          "id" : "3C0DB4EB-47C8-4540-8E00-CF5AB38D510E",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "9E80EA21-7028-4FE8-8F03-5A42186B49F7",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "A3CD8823-5133-4885-B84A-740E4E42CF47",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : true
+    },
+    {
+      "cue" : "",
+      "id" : "975B8572-7A78-4D9E-AD7C-577E2650AC48",
+      "name" : "Standing Cable Kickback",
+      "note" : "",
+      "repHigh" : 15,
+      "repLow" : 12,
+      "restSeconds" : 90,
+      "sets" : [
+        {
+          "id" : "D04DF051-5D6D-4CA0-B45B-956F3B2A5B69",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "804A8728-F0A7-464F-8549-73B674268EA3",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "FAB73DB0-9131-4463-A816-E5AC663AEBB6",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : true
+    },
+    {
+      "cue" : "Same machine as Monday — higher reps here.",
+      "id" : "63F9EADB-B1D8-4728-8DB5-3C8A1BCAD6BE",
+      "name" : "Seated Hip Abduction",
+      "note" : "",
+      "repHigh" : 20,
+      "repLow" : 15,
+      "restSeconds" : 90,
+      "sets" : [
+        {
+          "id" : "F8E362FA-9737-40B0-A55E-B19E57B96D8B",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "FA3655AC-096F-4604-85B8-15C86D6819D2",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "602E5CB8-7F01-4267-9DB6-BD836C948736",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    }
+  ],
+  "finished" : false,
+  "id" : "2026-11-21-legsC",
+  "lastEditedAt" : "2026-11-21T08:02:34Z",
+  "notes" : [
+
+  ],
+  "startedAt" : "2026-11-21T08:02:34Z"
+}
