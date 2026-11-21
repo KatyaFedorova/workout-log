@@ -166,9 +166,9 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
-              "kg" : "",
-              "reps" : ""
+              "done" : true,
+              "kg" : "10",
+              "reps" : "12"
             }
           }
         },
@@ -178,7 +178,7 @@
           "values" : {
             "B" : {
               "done" : false,
-              "kg" : "",
+              "kg" : "10",
               "reps" : ""
             }
           }
@@ -189,7 +189,7 @@
           "values" : {
             "B" : {
               "done" : false,
-              "kg" : "",
+              "kg" : "10",
               "reps" : ""
             }
           }
@@ -247,7 +247,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-21-legsC",
-  "lastEditedAt" : "2026-11-21T08:54:49Z",
+  "lastEditedAt" : "2026-11-21T09:00:14Z",
   "notes" : [
 
   ],
