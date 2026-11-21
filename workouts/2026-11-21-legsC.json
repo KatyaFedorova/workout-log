@@ -2,6 +2,7 @@
   "dayId" : "legsC",
   "dayName" : "Legs C",
   "daySub" : "Long-length glutes",
+  "endedAt" : "2026-11-21T09:15:23Z",
   "exercises" : [
     {
       "cue" : "5–10 cm platform. Left first.",
@@ -234,9 +235,9 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
-              "kg" : "77",
-              "reps" : ""
+              "done" : true,
+              "kg" : "7",
+              "reps" : "15"
             }
           }
         }
@@ -245,9 +246,9 @@
       "unilateral" : false
     }
   ],
-  "finished" : false,
+  "finished" : true,
   "id" : "2026-11-21-legsC",
-  "lastEditedAt" : "2026-11-21T09:12:57Z",
+  "lastEditedAt" : "2026-11-21T09:15:21Z",
   "notes" : [
 
   ],
