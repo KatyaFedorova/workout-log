@@ -1,12 +1,8 @@
 {
-  "version": 3,
-  "updated": "2026-11-19",
-  "focus": "64.5 to 58 kg without losing the muscle you've built. Hold your loads - holding is the win in a deficit. Left glute: feel it working before you load it, until both sides look and feel the same.",
-  "dailyCalories": 1600,
-  "dailyProtein": 125,
-  "weeklyActivityHours": 5,
-  "bodyweightKg": 64.5,
-  "goalWeightKg": 58,
-  "maintenanceCalories": 1735,
-  "guardrail": "If working loads slide two sessions running, eat 1735 for two weeks, then resume."
+  "dailyCalories" : 1600,
+  "dailyProtein" : 125,
+  "focus" : "64.5 to 58 kg without losing the muscle you've built. Hold your loads - holding is the win in a deficit. Left glute: feel it working before you load it, until both sides look and feel the same.",
+  "updated" : "2026-11-23",
+  "version" : 3,
+  "weeklyActivityHours" : 5
 }
