@@ -4,7 +4,7 @@
   "daySub" : "Unilateral hip extension · glutes",
   "exercises" : [
     {
-      "cue" : "Shin vertical at the top, pelvis tucked, ribs down. Left leg first. Mark your foot position.",
+      "cue" : "Shin vertical at the top, pelvis tucked, ribs down. Left leg first. Mark your foot position. Feel booty after second set, lock pelvic on top",
       "id" : "07F168DB-20F1-4362-94A5-D66A8D6B7210",
       "name" : "B-Stance Hip Thrust",
       "note" : "",
@@ -39,7 +39,7 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
+              "done" : true,
               "kg" : "10",
               "reps" : "10"
             }
@@ -247,7 +247,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-25-legsA",
-  "lastEditedAt" : "2026-11-25T07:50:37Z",
+  "lastEditedAt" : "2026-11-25T07:55:51Z",
   "notes" : [
 
   ],
