@@ -74,9 +74,9 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
+              "done" : true,
               "kg" : "5",
-              "reps" : ""
+              "reps" : "8"
             }
           }
         },
@@ -247,7 +247,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-25-legsA",
-  "lastEditedAt" : "2026-11-25T07:57:02Z",
+  "lastEditedAt" : "2026-11-25T08:00:26Z",
   "notes" : [
 
   ],
