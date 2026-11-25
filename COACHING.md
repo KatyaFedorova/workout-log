@@ -75,8 +75,14 @@ has the final say.** Don't relitigate it. Watch the guardrail instead.
 
 ## The program
 
-Source of truth is `program.json` in this repo. Currently **three leg days only**:
-Legs A (Mon), Legs B (Wed), Legs C (Fri). She dropped the two upper-body days.
+Source of truth is `program.json` in this repo. **Three leg days**: Legs A (Mon),
+Legs B (Wed), Legs C (Fri). She dropped the two upper-body days.
+
+**Posture day** (added 25 Nov 2026, badge TUE): for rounded shoulders, rounded upper
+back and forward head. Prone Y/T raises, band rows, face pulls, chin tucks, doorway pec
+minor stretch, foam roller thoracic extension. Plan: 3x/week, chin tucks daily, 8-12
+weeks, compare side-view photos. Chosen from reviews/RCTs: scapular strengthening is the
+core; chin tucks alone have weak evidence; stretches are extras. Each cue has a video link.
 
 ## Her constraints — do not forget these
 

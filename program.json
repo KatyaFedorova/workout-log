@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updated": "2026-11-19",
+  "version": 4,
+  "updated": "2026-11-25",
   "note": "Source of truth for the program. The app reads this on launch. Edit here or in the app.",
   "days": [
     {
@@ -139,6 +139,71 @@
           "repHigh": 20,
           "restSeconds": 90,
           "cue": "Same machine as Monday - higher reps here."
+        }
+      ]
+    },
+    {
+      "id": "posture",
+      "badge": "TUE",
+      "name": "Posture",
+      "sub": "Upper back · neck · rounded shoulders. 3x/week, chin tucks daily",
+      "weekday": 3,
+      "exercises": [
+        {
+          "name": "Prone Y Raise",
+          "sets": 2,
+          "repLow": 10,
+          "repHigh": 10,
+          "restSeconds": 60,
+          "cue": "Face down, thumbs up, chin tucked. Hold 3-5 s at the top, no shrug. Video: https://us.physitrack.com/home-exercise-video/shoulder-y-raise-in-prone"
+        },
+        {
+          "name": "Prone T Raise",
+          "sets": 2,
+          "repLow": 10,
+          "repHigh": 10,
+          "restSeconds": 60,
+          "cue": "Forehead on a towel, squeeze shoulder blades. Hold 3-5 s, don't arch the low back. Video: https://library.theprehabguys.com/vimeo-video/prone-ts/"
+        },
+        {
+          "name": "Band Row",
+          "sets": 3,
+          "repLow": 12,
+          "repHigh": 15,
+          "restSeconds": 60,
+          "cue": "Elbows back, shoulder blades together, neck long. Cable row at the gym works too. Video: https://us.physitrack.com/home-exercise-video/resisted-low-rows"
+        },
+        {
+          "name": "Face Pull",
+          "sets": 3,
+          "repLow": 15,
+          "repHigh": 15,
+          "restSeconds": 60,
+          "cue": "Rope or band at face height, pull to the face and apart. Band pull-aparts as a swap. Video: https://learn.athleanx.com/articles/do-this-home-exercise-every-day-no-equipment"
+        },
+        {
+          "name": "Chin Tuck",
+          "sets": 1,
+          "repLow": 10,
+          "repHigh": 10,
+          "restSeconds": 0,
+          "cue": "Do this one DAILY. Draw chin straight back (double chin), hold 10 s each rep. Video: https://us.physitrack.com/home-exercise-video/chin--tuck"
+        },
+        {
+          "name": "Doorway Pec Minor Stretch",
+          "sets": 3,
+          "repLow": 1,
+          "repHigh": 1,
+          "restSeconds": 15,
+          "cue": "Hold 30 s per set. Stop if the arm tingles. Video: https://library.theprehabguys.com/vimeo-video/pec-minor-stretch-doorway/"
+        },
+        {
+          "name": "Foam Roller Thoracic Extension",
+          "sets": 1,
+          "repLow": 10,
+          "repHigh": 10,
+          "restSeconds": 0,
+          "cue": "Roller across the upper back, extend on the exhale, move up segment by segment, 1-2 min. Chin tucked, low back neutral. Video: https://ie.physitrack.com/home-exercise-video/thoracic-extension-using-a-foam-roller"
         }
       ]
     }
