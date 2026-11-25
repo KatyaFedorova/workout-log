@@ -28,9 +28,9 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
-              "kg" : "10",
-              "reps" : ""
+              "done" : true,
+              "kg" : "5",
+              "reps" : "12"
             }
           }
         },
@@ -67,7 +67,7 @@
       "note" : "",
       "repHigh" : 10,
       "repLow" : 8,
-      "restSeconds" : 150,
+      "restSeconds" : 120,
       "sets" : [
         {
           "id" : "C0088F8A-AAF9-4EF5-88A0-7F6DE602323F",
@@ -170,7 +170,7 @@
       "note" : "",
       "repHigh" : 15,
       "repLow" : 12,
-      "restSeconds" : 90,
+      "restSeconds" : 120,
       "sets" : [
         {
           "id" : "11FBF0B2-3680-4AE7-9114-D5A325B5C35F",
@@ -247,7 +247,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-25-legsA",
-  "lastEditedAt" : "2026-11-25T07:44:12Z",
+  "lastEditedAt" : "2026-11-25T07:47:15Z",
   "notes" : [
 
   ],
