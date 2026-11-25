@@ -142,7 +142,7 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
+              "done" : true,
               "kg" : "10",
               "reps" : "10"
             }
@@ -153,7 +153,7 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
+              "done" : true,
               "kg" : "10",
               "reps" : "10"
             }
@@ -178,7 +178,7 @@
           "values" : {
             "B" : {
               "done" : false,
-              "kg" : "7",
+              "kg" : "6",
               "reps" : ""
             }
           }
@@ -189,7 +189,7 @@
           "values" : {
             "B" : {
               "done" : false,
-              "kg" : "7",
+              "kg" : "6",
               "reps" : ""
             }
           }
@@ -200,7 +200,7 @@
           "values" : {
             "B" : {
               "done" : false,
-              "kg" : "7",
+              "kg" : "6",
               "reps" : ""
             }
           }
@@ -247,7 +247,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-25-legsA",
-  "lastEditedAt" : "2026-11-25T08:26:50Z",
+  "lastEditedAt" : "2026-11-25T08:30:04Z",
   "notes" : [
 
   ],
