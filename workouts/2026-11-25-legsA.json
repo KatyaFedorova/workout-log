@@ -1,0 +1,255 @@
+{
+  "dayId" : "legsA",
+  "dayName" : "Legs A",
+  "daySub" : "Unilateral hip extension · glutes",
+  "exercises" : [
+    {
+      "cue" : "Shin vertical at the top, pelvis tucked, ribs down. Left leg first. Mark your foot position.",
+      "id" : "07F168DB-20F1-4362-94A5-D66A8D6B7210",
+      "name" : "B-Stance Hip Thrust",
+      "note" : "",
+      "repHigh" : 12,
+      "repLow" : 8,
+      "restSeconds" : 150,
+      "sets" : [
+        {
+          "id" : "15CD8191-8547-4AF7-8726-1109CA160EAF",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "10",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "D41A3050-F9A9-42D8-AC4C-65D7AC94F0D4",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "10",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "6D086919-95C8-4826-88B1-E7BBD87A97B9",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "10",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "E1E25874-0864-4498-B0F9-F039F9764639",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "10",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    },
+    {
+      "cue" : "Torso leaned 30-45 degrees forward. Left first.",
+      "id" : "35FBBC17-E982-4067-A7FE-E0855FC11DE7",
+      "name" : "Bulgarian Split Squat",
+      "note" : "",
+      "repHigh" : 10,
+      "repLow" : 8,
+      "restSeconds" : 150,
+      "sets" : [
+        {
+          "id" : "C0088F8A-AAF9-4EF5-88A0-7F6DE602323F",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "5",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "A04B3E2F-B84A-4109-A1A2-CCD3A1F89181",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "5",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "50377535-B5E7-466D-A5BD-A4F8545B052A",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "5",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "FE9B19C3-7FFD-4E95-8530-773ED74A2D11",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "5",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    },
+    {
+      "cue" : "Hamstring-dominant by design - don't chase glute feel here.",
+      "id" : "112756ED-6C36-4190-8AA8-01217DA9A98A",
+      "name" : "Romanian Deadlift",
+      "note" : "",
+      "repHigh" : 10,
+      "repLow" : 8,
+      "restSeconds" : 120,
+      "sets" : [
+        {
+          "id" : "F66CC451-813C-423E-AFE6-E177ED017AFA",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "10",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "217C5BB2-4CBA-4402-AD95-4B464AD11221",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "10",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "EBEDCF3A-C810-4B25-8996-C9540E6D900D",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "10",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    },
+    {
+      "cue" : "Torso leaned forward. Stop at 15, then add load.",
+      "id" : "EB84C925-CE69-4063-B261-D4EDA80F52A8",
+      "name" : "Seated Hip Abduction",
+      "note" : "",
+      "repHigh" : 15,
+      "repLow" : 12,
+      "restSeconds" : 90,
+      "sets" : [
+        {
+          "id" : "11FBF0B2-3680-4AE7-9114-D5A325B5C35F",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "7",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "4AE08C2C-4E79-4A64-BC22-FEE1F40A5315",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "7",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "DE4E92AA-C0B9-4F1D-A578-1D56BAB11527",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "7",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    },
+    {
+      "cue" : "Torso near parallel to the floor.",
+      "id" : "B9D8522F-7F28-46AA-AB40-789733CBB8F2",
+      "name" : "Standing Cable Kickback",
+      "note" : "",
+      "repHigh" : 15,
+      "repLow" : 12,
+      "restSeconds" : 90,
+      "sets" : [
+        {
+          "id" : "CD810070-C9EE-453F-88B9-311E42EFFBD9",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "10",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "A30B6306-CA75-4534-999E-AD06990DA823",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "10",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    }
+  ],
+  "finished" : false,
+  "id" : "2026-11-25-legsA",
+  "lastEditedAt" : "2026-11-25T07:25:43Z",
+  "notes" : [
+
+  ],
+  "startedAt" : "2026-11-25T07:25:43Z"
+}
