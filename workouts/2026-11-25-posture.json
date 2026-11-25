@@ -33,6 +33,17 @@
               "reps" : ""
             }
           }
+        },
+        {
+          "id" : "87762894-6FBE-4B63-94C2-D56F084D6F31",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
         }
       ],
       "split" : false,
@@ -262,7 +273,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-25-posture",
-  "lastEditedAt" : "2026-11-25T05:15:32Z",
+  "lastEditedAt" : "2026-11-25T05:15:35Z",
   "notes" : [
 
   ],
