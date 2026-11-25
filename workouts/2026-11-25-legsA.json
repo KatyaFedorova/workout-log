@@ -61,7 +61,7 @@
       "unilateral" : false
     },
     {
-      "cue" : "Torso leaned 30-45 degrees forward. Left first.",
+      "cue" : "Torso leaned 30-45 degrees forward. Left first. Pause at the bottomm to engage glute",
       "id" : "35FBBC17-E982-4067-A7FE-E0855FC11DE7",
       "name" : "Bulgarian Split Squat",
       "note" : "",
@@ -97,7 +97,7 @@
           "values" : {
             "B" : {
               "done" : false,
-              "kg" : "5",
+              "kg" : "4",
               "reps" : ""
             }
           }
@@ -108,7 +108,7 @@
           "values" : {
             "B" : {
               "done" : false,
-              "kg" : "5",
+              "kg" : "4",
               "reps" : ""
             }
           }
@@ -247,7 +247,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-25-legsA",
-  "lastEditedAt" : "2026-11-25T08:04:12Z",
+  "lastEditedAt" : "2026-11-25T08:06:05Z",
   "notes" : [
 
   ],
