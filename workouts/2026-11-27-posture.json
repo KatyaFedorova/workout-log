@@ -1,0 +1,270 @@
+{
+  "dayId" : "posture",
+  "dayName" : "Posture",
+  "daySub" : "Upper back · neck · rounded shoulders. 3x\/week, chin tucks daily",
+  "exercises" : [
+    {
+      "cue" : "Face down, thumbs up, chin tucked. Hold 3-5 s at the top, no shrug. Video: https:\/\/us.physitrack.com\/home-exercise-video\/shoulder-y-raise-in-prone",
+      "id" : "90A6DC8C-3B3F-4D6A-A66A-03FFCA1C6F41",
+      "name" : "Prone Y Raise",
+      "note" : "",
+      "repHigh" : 10,
+      "repLow" : 10,
+      "restSeconds" : 60,
+      "sets" : [
+        {
+          "id" : "A7473AE1-8E4A-4B8C-B7D9-C2F18304C0D0",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "08B61066-6C0C-4444-92AF-299B1A4FD385",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    },
+    {
+      "cue" : "Forehead on a towel, squeeze shoulder blades. Hold 3-5 s, don't arch the low back. Video: https:\/\/library.theprehabguys.com\/vimeo-video\/prone-ts\/",
+      "id" : "BED3614B-A086-48DA-9CA0-CBCF9C181458",
+      "name" : "Prone T Raise",
+      "note" : "",
+      "repHigh" : 10,
+      "repLow" : 10,
+      "restSeconds" : 60,
+      "sets" : [
+        {
+          "id" : "8891CA72-F240-4C61-80E1-19355CBBDD3B",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "AC39E358-EA45-4C23-BB9A-00547C0EC171",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    },
+    {
+      "cue" : "Elbows back, shoulder blades together, neck long. Cable row at the gym works too. Video: https:\/\/us.physitrack.com\/home-exercise-video\/resisted-low-rows",
+      "id" : "3AF1C997-5354-444C-B02B-793D64CB4BE6",
+      "name" : "Band Row",
+      "note" : "",
+      "repHigh" : 15,
+      "repLow" : 12,
+      "restSeconds" : 60,
+      "sets" : [
+        {
+          "id" : "7927F6E2-8106-44B5-A601-31748281429A",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "7B0BD031-4C91-4FDE-88CF-5F15FE2FCFED",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "54A8329E-6ACD-4B13-89CF-4AA2599936DB",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    },
+    {
+      "cue" : "Rope or band at face height, pull to the face and apart. Band pull-aparts as a swap. Video: https:\/\/learn.athleanx.com\/articles\/do-this-home-exercise-every-day-no-equipment",
+      "id" : "2177E061-42EB-4E23-96A3-4B573CEF6859",
+      "name" : "Face Pull",
+      "note" : "",
+      "repHigh" : 15,
+      "repLow" : 15,
+      "restSeconds" : 60,
+      "sets" : [
+        {
+          "id" : "42230794-831E-4DAF-B758-93CA08D82147",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "D9316C3B-8B5F-4618-BD1D-8BB11251E29C",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "0080DB69-BF39-4597-B175-631075197EA0",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    },
+    {
+      "cue" : "Do this one DAILY. Draw chin straight back (double chin), hold 10 s each rep. Video: https:\/\/us.physitrack.com\/home-exercise-video\/chin--tuck",
+      "id" : "CFB2E1FA-E4E9-49CE-B2A3-103D001C1815",
+      "name" : "Chin Tuck",
+      "note" : "",
+      "repHigh" : 10,
+      "repLow" : 10,
+      "restSeconds" : 0,
+      "sets" : [
+        {
+          "id" : "1CE72C14-9EE5-4C53-8D8A-D84CE1689980",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    },
+    {
+      "cue" : "Hold 30 s per set. Stop if the arm tingles. Video: https:\/\/library.theprehabguys.com\/vimeo-video\/pec-minor-stretch-doorway\/",
+      "id" : "257E6F56-BA2B-445C-950A-493310F6BE4A",
+      "name" : "Doorway Pec Minor Stretch",
+      "note" : "",
+      "repHigh" : 1,
+      "repLow" : 1,
+      "restSeconds" : 15,
+      "sets" : [
+        {
+          "id" : "1717DEDC-9588-4F81-B1DD-3BFB5790671B",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "CFE17BBC-6514-4B90-B010-13676C6BE4C7",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "97A551A6-DB83-4334-A102-EB965B0CA72A",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    },
+    {
+      "cue" : "Roller across the upper back, extend on the exhale, move up segment by segment, 1-2 min. Chin tucked, low back neutral. Video: https:\/\/ie.physitrack.com\/home-exercise-video\/thoracic-extension-using-a-foam-roller",
+      "id" : "9676D58E-387B-4D55-890F-AE9F64DEE4F1",
+      "name" : "Foam Roller Thoracic Extension",
+      "note" : "",
+      "repHigh" : 10,
+      "repLow" : 10,
+      "restSeconds" : 0,
+      "sets" : [
+        {
+          "id" : "69E78ADB-F031-40D1-8840-2CC77D0D677B",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : false
+    }
+  ],
+  "finished" : false,
+  "id" : "2026-11-27-posture",
+  "lastEditedAt" : "2026-11-27T10:00:13Z",
+  "notes" : [
+
+  ],
+  "startedAt" : "2026-11-27T10:00:13Z"
+}
