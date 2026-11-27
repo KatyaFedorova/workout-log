@@ -61,7 +61,7 @@
       "unilateral" : false
     },
     {
-      "cue" : "Bodyweight. Add reps 6 to 8 to 10 to 12 before any load. Shin vertical, pelvis tucked. Till failure",
+      "cue" : "Bodyweight. Add reps 6 to 8 to 10 to 12 before any load. Shin vertical, pelvis tucked. Till failure, grab edges of bench to balance",
       "id" : "0BB736EF-E6F2-45AB-8C19-621D75C43625",
       "name" : "Single-Leg Hip Thrust",
       "note" : "",
@@ -85,7 +85,7 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
+              "done" : true,
               "kg" : "",
               "reps" : "9"
             }
@@ -385,7 +385,7 @@
   ],
   "finished" : false,
   "id" : "2026-11-27-legsC-2",
-  "lastEditedAt" : "2026-11-27T08:59:22Z",
+  "lastEditedAt" : "2026-11-27T09:01:04Z",
   "notes" : [
 
   ],
