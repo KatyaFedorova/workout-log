@@ -258,11 +258,57 @@
       ],
       "split" : false,
       "unilateral" : false
+    },
+    {
+      "cue" : "",
+      "id" : "688BB449-C1E8-44C2-AA07-26E85E6C18A4",
+      "name" : "Wall head up chin down",
+      "note" : "",
+      "repHigh" : 12,
+      "repLow" : 8,
+      "restSeconds" : 120,
+      "sets" : [
+        {
+          "id" : "A47ADE75-679F-4169-87B8-F724EDCEE212",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "371193E8-9034-4EC6-9D8D-C2C8A57B03C7",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "56B53E3C-3DA1-4462-B6F1-DDE57163526D",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : true
     }
   ],
   "finished" : false,
   "id" : "2026-11-27-posture",
-  "lastEditedAt" : "2026-11-27T10:00:13Z",
+  "lastEditedAt" : "2026-11-27T10:00:36Z",
   "notes" : [
 
   ],
