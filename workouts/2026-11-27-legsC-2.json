@@ -4,7 +4,7 @@
   "daySub" : "Long-length glutes",
   "exercises" : [
     {
-      "cue" : "5–10 cm platform. Left first.",
+      "cue" : "5–10 cm platform. Left first. Empty bar, go till mussle worn fail, ",
       "id" : "0EE5B62D-B4D4-42CE-814C-31204FE5E4AF",
       "name" : "Deficit Reverse Lunge",
       "note" : "",
@@ -243,11 +243,57 @@
       ],
       "split" : false,
       "unilateral" : false
+    },
+    {
+      "cue" : "",
+      "id" : "8FD6EBE6-6B2B-4B41-AA6E-B1F3628EAD8B",
+      "name" : "Warm up 1",
+      "note" : "",
+      "repHigh" : 12,
+      "repLow" : 8,
+      "restSeconds" : 120,
+      "sets" : [
+        {
+          "id" : "A5010C1D-BF8A-4260-92E2-E76F2F1B7001",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "7FFA2B1C-7424-4A83-BD13-C33B660A5D24",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "814C1D3B-EF34-45A0-BC94-AC861E21B88E",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : true
     }
   ],
   "finished" : false,
   "id" : "2026-11-27-legsC-2",
-  "lastEditedAt" : "2026-11-27T08:33:03Z",
+  "lastEditedAt" : "2026-11-27T08:34:05Z",
   "notes" : [
 
   ],
