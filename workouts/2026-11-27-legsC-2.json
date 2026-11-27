@@ -17,7 +17,7 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
+              "done" : true,
               "kg" : "0",
               "reps" : "8"
             }
@@ -289,11 +289,103 @@
       ],
       "split" : false,
       "unilateral" : true
+    },
+    {
+      "cue" : "",
+      "id" : "3AB46FCB-7A90-423A-9C16-C5C2E9206F1E",
+      "name" : "Warm up push leg back",
+      "note" : "",
+      "repHigh" : 12,
+      "repLow" : 8,
+      "restSeconds" : 120,
+      "sets" : [
+        {
+          "id" : "3A603F51-C9BC-420A-BAD4-CE15A1F801C5",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "518D791A-8D0B-44A9-A197-178905DB4589",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "4495E4E7-5F30-41E3-AD90-1AA33AF622F0",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : true
+    },
+    {
+      "cue" : "Really low, like really, each time go lover",
+      "id" : "60CE8041-C305-4581-BBEE-B701E1AA93B3",
+      "name" : "Warm up sit",
+      "note" : "",
+      "repHigh" : 12,
+      "repLow" : 8,
+      "restSeconds" : 120,
+      "sets" : [
+        {
+          "id" : "A824FAD6-5A0A-4634-BBEF-879CEE499951",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : "8"
+            }
+          }
+        },
+        {
+          "id" : "66A87341-3457-4C82-9858-7761FBCC4158",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        },
+        {
+          "id" : "1446E45C-0107-4448-B5AD-B087D6DF9E59",
+          "note" : "",
+          "values" : {
+            "B" : {
+              "done" : false,
+              "kg" : "",
+              "reps" : ""
+            }
+          }
+        }
+      ],
+      "split" : false,
+      "unilateral" : true
     }
   ],
   "finished" : false,
   "id" : "2026-11-27-legsC-2",
-  "lastEditedAt" : "2026-11-27T08:34:05Z",
+  "lastEditedAt" : "2026-11-27T08:36:00Z",
   "notes" : [
 
   ],
