@@ -2,6 +2,7 @@
   "dayId" : "legsC",
   "dayName" : "Legs C",
   "daySub" : "Long-length glutes",
+  "endedAt" : "2026-11-27T09:52:24Z",
   "exercises" : [
     {
       "cue" : "5–10 cm platform. Left first. Empty bar, go till mussle worn fail, catch that sweet angle, platform lowest possible. Two rules - till failure and с максимальным растяжением.",
@@ -258,9 +259,9 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
+              "done" : true,
               "kg" : "",
-              "reps" : ""
+              "reps" : "10"
             }
           }
         },
@@ -304,9 +305,9 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
+              "done" : true,
               "kg" : "",
-              "reps" : ""
+              "reps" : "10"
             }
           }
         },
@@ -350,7 +351,7 @@
           "note" : "",
           "values" : {
             "B" : {
-              "done" : false,
+              "done" : true,
               "kg" : "",
               "reps" : "8"
             }
@@ -383,9 +384,9 @@
       "unilateral" : true
     }
   ],
-  "finished" : false,
+  "finished" : true,
   "id" : "2026-11-27-legsC-2",
-  "lastEditedAt" : "2026-11-27T09:44:06Z",
+  "lastEditedAt" : "2026-11-27T09:44:25Z",
   "notes" : [
 
   ],
